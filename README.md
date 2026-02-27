@@ -1,4 +1,4 @@
-# Custom-C-C-STD  
+# Custom-C-CPP-STD  
 
 This is an experiment to see if you can fix the shortcomings of C within C++, while ignoring 95% of C++ features.  
 
