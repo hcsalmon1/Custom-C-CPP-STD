@@ -1,5 +1,6 @@
 # Custom-C-CPP-STD  
 
+(Work in progress)  
 This is an experiment to see if you can fix the shortcomings of C within C++, while ignoring 95% of C++ features.  
 
 Problems with C (in my opinion):  
