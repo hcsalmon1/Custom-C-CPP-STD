@@ -9,7 +9,7 @@ Problems with C (in my opinion):
 4. Bad names in C standard library - atoi, itoa, perror etc.
 5. C standard library presumes everything is valid
 6. Variance of the length of integers. int can be 16 or 32 bits.
-7. One pass parsing
+7. One pass parsing, header files, linking errors, forward declarations etc.
 8. No defer or RAII. Early returns after allocations require goto or repetitive frees.
 
  
