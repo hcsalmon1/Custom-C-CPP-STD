@@ -13,7 +13,9 @@ Problems with C (in my opinion):
 7. One pass parsing, header files, linking errors, forward declarations etc.
 8. No defer or RAII. Early returns after allocations require goto or repetitive frees.
 
-How I fixed errors
+How I improved errors
+
+It's not possible to truly make as built in as I want them to be but you can get close.
 
 Firstly I created one Enum Class with a list of potential errors.  
 They are all prefixed with the category.  
